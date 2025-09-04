@@ -7,6 +7,7 @@ export default function App() {
       <Text testID="welcome-text">Hello, React Native!</Text>
       <Text style={styles.text}>Nama: Ivana Hermili</Text>
       <Text style={styles.text}>NIM: D1041221073</Text>
+      <Text style={styles.text}>Kelas: A</Text>
     </View>
   );
 }
