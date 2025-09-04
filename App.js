@@ -5,6 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text testID="welcome-text">Hello, React Native!</Text>
+      <Text style={styles.text}>Nama: Ivana</Text>
+      <Text style={styles.text}>NIM: D1041221073</Text>
     </View>
   );
 }
@@ -14,5 +16,6 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: '#f0f9ff',
   },
 });
