@@ -8,6 +8,7 @@ export default function App() {
       <Text style={styles.text}>Nama: Ivana Hermili</Text>
       <Text style={styles.text}>NIM: D1041221073</Text>
       <Text style={styles.text}>Kelas: A</Text>
+      <Text style={styles.text}>Jenis Kelamin: Perempuan</Text>
     </View>
   );
 }
